@@ -1,4 +1,4 @@
-# gitAssignment
+# Git and Github Assignment
 It's an first assignment for to practice git commands and to explore GitHub
 
 **Prerequisite** : Install git client on your machine. Open command prompt, type git --version and hit enter. You should see the installed git version.
